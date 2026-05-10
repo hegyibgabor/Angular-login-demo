@@ -1,4 +1,4 @@
-# Syncee Demo App
+# Angular login demo app
 
 Ez az alkalmazás egy Angular alapú webes projekt, amely lehetővé teszi a felhasználók számára, hogy profilokat hozzanak létre, bejelentkezzenek, és egy demo Coinbase API-n keresztül megtekintsék a különböző valutákat. A bejelentkezett felhasználók védett útvonalakon keresztül férhetnek hozzá az adatokhoz, és a Google bejelentkezés segítségével három kattintással elérhetik profiljukat.
 
